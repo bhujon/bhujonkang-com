@@ -148,7 +148,7 @@ const projectData = {
         }     
     },
     "12": {
-        "select": true,
+        "select": false,
         "title": {
             "ko": "정관고등학교 증축",
             "en": "Extention of JeongGwan High School"
@@ -220,7 +220,7 @@ const projectData = {
         }     
     },
     "10": {
-        "select": true,
+        "select": false,
         "title": {
             "ko": "세도나 단독주택",
             "en": "Featherway Home"
