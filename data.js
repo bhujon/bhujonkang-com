@@ -630,7 +630,7 @@ const newsData = {
 const awardedData = {
     "28": {
         "title": { "ko": "포항시립박물관", "en": "Pohang Museum" },
-        "rank": { "ko": "5등작", "en": "5th Awarded" },
+        "rank": { "ko": "5등작", "en": "5th Prize" },
         "year": "2026",
         "client": { "ko": "경상북도 포항시", "en": "City of Pohang" },
         "program": { "ko": "문화 및 집회시설", "en": "Exhibition" },
