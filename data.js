@@ -630,11 +630,11 @@ const newsData = {
 const awardedData = {
     "28": {
         "title": { "ko": "포항시립박물관", "en": "Pohang Museum" },
-        "rank": { "ko": "5등작", "en": "5th Awarded" },
+        "rank": { "ko": "5등작", "en": "5th Prize" },
         "year": "2026",
         "client": { "ko": "경상북도 포항시", "en": "City of Pohang" },
         "program": { "ko": "문화 및 집회시설", "en": "Exhibition" },
-        "image": "images/16/01.webp"
+        "image": "images/16/1.webp"
     },
     "27": {
         "title": { "ko": "글로벌창업허브 부산", "en": "Global Start-up Hub Busan" },
@@ -873,11 +873,11 @@ const PeopleData = {
 
 const ArchiveData = {
     "37": {
-        "title": { "ko": "해운대", "en": "Haeundae " },
+        "title": { "ko": "해운대수목원 연구 및 관리시설", "en": "Research Facility for Haeundae Arboretum" },
         "year": "2026",
         "client": { "ko": "부산광역시", "en": "Metropolitan Office of Busan" },
-        "program": { "ko": "운동시설", "en": "Sports Facility" },
-        "image": "archive/37.webp"
+        "program": { "ko": "업무시설", "en": "Office" },
+        "image": "images/17/1.webp"
     },
     "36": {
         "title": { "ko": "동래구 제2국민체육센터", "en": "2nd Public Sports Center in DongRae-Gu" },
