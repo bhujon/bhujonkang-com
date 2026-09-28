@@ -1,5 +1,40 @@
 const projectData = {
-    "15": {
+    "16": {
+        "select": true,
+        "title": {
+            "ko": "포항시립미술관",
+            "en": "Pohang Museum"
+        },
+        "subtitle": {
+            "ko": "대지미술로서의 박물관",
+            "en": "Museum as Land Art"
+        },
+        "year": "2026",
+        "status": {
+            "ko": "설계공모 5등작",
+            "en": "5th Awarded"
+        },
+        "location": {
+            "ko": "경상북도 포항시",
+            "en": "Pohang-si, Gyeongsangbuk-Do"
+        },
+        "images": [
+            "images/16/01.webp",
+            "images/16/02.webp",
+            "images/16/03.webp",
+            "images/16/04.webp",
+            "images/16/05.webp",
+            "images/16/06.webp"
+        ],
+        "desc": {
+            "ko": "본 프로젝트는 지형과 건축의 관계를 대지 미술적 전략으로 재해석하여, 땅과 건물이 서로 대비되면서도 유기적으로 융화되는 구축적 방식을 취한다. 공간 구성의 핵심은 지중으로 파고든 매스와 상부로 상승한 매스의 명확한 대비에 있다. 지면 아래로 깊숙이 잠긴 하부 매스는 대지의 지층과 결합하여 포항의 역사를 다루는 차분하고 내밀한 전시 공간을 형성하며, 지형의 연속성을 훼손하지 않고 보존한다. 반면, 지상에 노출된 상부 매스는 기존 언덕의 형상을 대지 위에 다시 재현하듯 대지 위로 솟아올라 주변 바다와 공원을 향한 파노라마 같은 외부 전망을 극대화한다. 이 상부 매스의 지붕면은 옥상 정원을 통해 대지의 연장선인 경사형 데크로 환원되며, 관람객이 언덕 위를 거닐듯 풍경을 조망하는 대지 예술적 경험을 완성한다.",
+            "en": "This project reinterprets the relationship between natural topography and architecture through a land-art strategy, employing a construction method where the land and the building contrast yet organically merge. The spatial composition centers on the distinct contrast between a mass embedded in the ground and one that rises upward. The lower mass, submerged deep beneath the surface, integrates with the geological strata to create a serene, intimate exhibition space dedicated to Pohang’s history, all while preserving the continuity of the terrain. In contrast, the upper mass emerges above ground—evoking the form of the original hill—and maximizes panoramic views of the surrounding sea and park. The roof of this upper mass transforms into a public deck that serves as an extension of the landscape; through its sloped and rooftop gardens, it completes a land-art experience where visitors can take in the scenery as if strolling across a hillside."
+        },
+        "func": {
+            "ko": "문화 및 집회시설",
+            "en": "Cultural Facility"  
+        }      
+    },    "15": {
         "select": true,
         "title": {
             "ko": "글로벌창업허브 부산",
@@ -592,6 +627,14 @@ const newsData = {
 
 /* awardedData 카테고리 추가 */
 const awardedData = {
+    "28": {
+        "title": { "ko": "포항시립박물관", "en": "Pohang Museum" },
+        "rank": { "ko": "5등작", "en": "5th Awarded" },
+        "year": "2026",
+        "client": { "ko": "경상북도 포항시", "en": "City of Pohang" },
+        "program": { "ko": "문화 및 집회시설", "en": "Exhibition" },
+        "image": "images/16/01.webp"
+    },
     "27": {
         "title": { "ko": "글로벌창업허브 부산", "en": "Global Start-up Hub Busan" },
         "rank": { "ko": "당선", "en": "Winner (1st Prize)" },
@@ -828,6 +871,13 @@ const PeopleData = {
 };
 
 const ArchiveData = {
+    "37": {
+        "title": { "ko": "해운대", "en": "Haeundae " },
+        "year": "2026",
+        "client": { "ko": "부산광역시", "en": "Metropolitan Office of Busan" },
+        "program": { "ko": "운동시설", "en": "Sports Facility" },
+        "image": "archive/37.webp"
+    },
     "36": {
         "title": { "ko": "동래구 제2국민체육센터", "en": "2nd Public Sports Center in DongRae-Gu" },
         "year": "2025",
